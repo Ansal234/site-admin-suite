@@ -1,0 +1,29 @@
+thomas.turner@durhamcollege.ca successfully logged in at 2023-12-14 08:49:05
+thomas.turner@durhamcollege.ca successfully logged out at 2023-12-14 08:49:05
+samualjohn@gmail.com failed to log in at 2023-12-14 08:49:50
+samualjohn@gmail.com failed to log in at 2023-12-14 08:49:58
+thomas.turner@durhamcollege.ca successfully logged in at 2023-12-14 08:50:11
+ successfully created at 2023-12-14 08:50:28
+thomas.turner@durhamcollege.ca successfully logged out at 2023-12-14 08:50:11
+jaqyj@mailinator.com successfully logged in at 2023-12-14 08:50:37
+jaqyj@mailinator.com successfully logged out at 2023-12-14 08:50:37
+thomas.turner@durhamcollege.ca successfully logged in at 2023-12-14 08:50:58
+10 updated active status to Inactive at 2023-12-14 08:51:04
+13 updated active status to Inactive at 2023-12-14 08:51:17
+10 updated active status to Active at 2023-12-14 08:51:34
+thomas.turner@durhamcollege.ca successfully logged out at 2023-12-14 08:50:58
+jaqyj@mailinator.com failed to log in at - Account Inactive 2023-12-14 08:52:01
+Successfully sent reset email to thomas.turner@durhamcollege.ca at 2023-12-14 08:52:11
+To: thomas.turner@durhamcollege.ca
+Subject: Password Reset Request
+Dear Tom Turner,
+
+A password reset has been requested for your account. If you did not request this, please ignore this email.
+
+Reset Token: 3153b3192fe64b0796f92323d793341cad69d11c00d1fa837060f1a425aee33d
+
+Sincerely,
+ANSAL MUHAMMED
+
+
+sfdsdf@ghsdf.com password reset failed - email doesn't exist at 2023-12-14 08:52:19
